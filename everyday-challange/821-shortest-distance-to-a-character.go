@@ -1,4 +1,4 @@
-package codetop
+package everydaychallange
 
 func shortestToChar(s string, c byte) []int {
 	length := len(s)
