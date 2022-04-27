@@ -1,7 +1,7 @@
 package main
 
-import "aswa2ds.cn/leetcode/codetop"
+import everydaychallange "aswa2ds.cn/leetcode/everyday-challange"
 
 func main() {
-	codetop.Test()
+	everydaychallange.TestFunc()
 }
